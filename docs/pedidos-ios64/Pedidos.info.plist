@@ -13,9 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>7.1</string>
 	<key>CFBundleVersion</key>
-	<string>3.0.7</string>
+	<string>3.0.8</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.0.7</string>
+	<string>3.0.8</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleSignature</key>
@@ -99,11 +99,11 @@
 	<key>DTPlatformVersion</key>
 	<string>18.5</string>
 	<key>DTPlatformBuild</key>
-	<string>19C51</string>
+	<string>22F76</string>
 	<key>DTXcodeBuild</key>
-	<string>13C100</string>
+	<string>16F6</string>
 	<key>DTSDKBuild</key>
-	<string>19C51</string>
+	<string>22F76</string>
 
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
