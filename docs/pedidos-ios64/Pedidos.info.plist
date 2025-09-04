@@ -9,13 +9,13 @@
 	<key>CFBundleDisplayName</key>
 	<string>Pedidos</string>
 	<key>CFBundleIdentifier</key>
-	<string>Pedidos</string>
+	<string>br.com.mysaas</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>7.1</string>
 	<key>CFBundleVersion</key>
-	<string>3.0.7</string>
+	<string>3.0.10</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.0.7</string>
+	<string>3.0.10</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleSignature</key>
@@ -29,7 +29,6 @@
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
-		<integer>2</integer>
 	</array>
 	<key>NSLocationAlwaysUsageDescription</key>
 	<string>The reason for accessing the location information of the user</string>
