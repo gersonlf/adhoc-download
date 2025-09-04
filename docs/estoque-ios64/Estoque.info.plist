@@ -9,7 +9,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Estoque</string>
 	<key>CFBundleIdentifier</key>
-	<string>br.com.mysaas</string>
+	<string>br.com.mysaas.estoque</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>7.1</string>
 	<key>CFBundleVersion</key>

@@ -4,7 +4,7 @@
 <dict>
 	
 	<key>application-identifier</key>
-	<string>5T3L7K4A55.br.com.mysaas</string>
+	<string>5T3L7K4A55.br.com.mysaas.estoque</string>
 	
 	<key>get-task-allow</key>
 	<false/>
@@ -13,7 +13,7 @@
 	
 	<key>keychain-access-groups</key>
 	<array>
-		<string>5T3L7K4A55.br.com.mysaas</string>
+		<string>5T3L7K4A55.br.com.mysaas.estoque</string>
 		<string>com.apple.token</string>
 	</array>
 </dict>
