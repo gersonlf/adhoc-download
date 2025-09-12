@@ -19,7 +19,7 @@
         <key>bundle-identifier</key>
         <string>br.com.mysaas.pedidos</string>
         <key>bundle-version</key>
-        <string>3.0.14</string>
+        <string>3.0.15</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
